@@ -39,3 +39,6 @@ serviceAccountKey.json
 
 # firebase debug logs
 firebase-debug.log*
+
+echo "public/ogp/*.webp" >> .gitignore
+echo "public/ogp/*.jpg" >> .gitignore
